@@ -1,0 +1,5 @@
+Evaluation Metrics
+=================
+MAE: 1.2561
+RMSE: 1.6570
+R²: 0.9111
